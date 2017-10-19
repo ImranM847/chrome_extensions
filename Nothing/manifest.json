@@ -1,0 +1,20 @@
+{ "manifest_version"        : 2
+, "minimum_chrome_version"  : "28.0"
+
+, "default_locale"          : "en_US"
+, "name"                    : "__MSG_name_long__"
+, "short_name"              : "__MSG_name_shrt__"
+, "description"             : "__MSG_name_desc__"
+
+, "version"                 : "22.22.22.22"
+, "homepage_url"            : "https://eladkarako.github.io/"
+, "author"                  : "Elad Karako"
+
+, "offline_enabled"         : true
+
+, "permissions"             : [ "https://eladkarako.github.io/"
+                              ]
+, "content_scripts"         : [ {"css": [ "resources/at_document_start.css" ], "all_frames": false, "matches": [ "https://eladkarako.github.io/" ], "run_at": "document_start" }
+                              ]
+,"icons"                    : { "48": "resources/icon.png" }
+}
