@@ -21,6 +21,9 @@ This is also makes especially easy to edit Unicode/UTF-8 content since browsers 
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.3
+* Google-translate easier copy of the result.
+
 8.0.1.2
 * adjustments for events used for dynamic content loading (pjax/offline rendering) used usually in GitHub's-framework, but will probably fit other websites too.
 
