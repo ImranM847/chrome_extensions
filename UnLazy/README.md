@@ -16,6 +16,12 @@ Will Work Everywhere! (eBay, Amazon, WordPress, Blogger,...)
 <pre>
 Developer's HUB / Changelog
 
+8.0.0.2
+* including generalized alternative/custom pagespeed functionality used in ebay.
+
+8.0.0.1
+* reduced functionality - handling just pagespeed.
+
 7.0.3.3
 * improved handling of SPF loading. Note that YouTube will still cache the webp animated-video previews, if you want to block it (since you will use the jpg static preview anyway) you should add something like this "ytimg.com/*/mqdefault_6s.webp" rule to your ublock-origin list, which will load the page faster.
 
