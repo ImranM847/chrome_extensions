@@ -2,6 +2,10 @@
 
 ★★★★★ Direct Download-Link In MediaFire.com ✔︎
 
+<img src="resources/screenshot_1.png"/><br/>
+
+<img src="resources/screenshot_2.png"/><br/>
+
 You might as well block JavaScript and Cookies the Chrome-extension will still work,
 and you can keep your privacy and avoid pop-ups and ads!
 
