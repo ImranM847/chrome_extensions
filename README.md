@@ -21,6 +21,7 @@
 <br/><a href="HTTPS-Fix/"                   ><img alt="" width="32" height="32" src="HTTPS-Fix/resources/icon.png"                   /> HTTPS-Fix</a>
 <br/><a href="Link-Decrypt/"                ><img alt="" width="32" height="32" src="Link-Decrypt/resources/icon.png"                /> Link-Decrypt</a>
 <br/><a href="Link-Style-Basic/"            ><img alt="" width="32" height="32" src="Link-Style-Basic/resources/icon.png"            /> Link-Style-Basic</a>
+<br/><a href="MediaFire-Direct/"            ><img alt="" width="32" height="32" src="MediaFire-Direct/resources/icon.png"            /> MediaFire-Direct</a>
 <br/><a href="Meta-Refresh-Killer/"         ><img alt="" width="32" height="32" src="Meta-Refresh-Killer/resources/icon.png"         /> Meta-Refresh-Killer</a>
 <br/><a href="MirrorX/"                     ><img alt="" width="32" height="32" src="MirrorX/resources/icon.png"                     /> MirrorX</a>
 <br/><a href="Nice-Scrollbars/"             ><img alt="" width="32" height="32" src="Nice-Scrollbars/resources/icon.png"             /> Nice-Scrollbars</a>
