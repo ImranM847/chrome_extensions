@@ -47,6 +47,9 @@ to your command-line for <code>chrome.exe</code>.
 <pre>
 Developer's HUB / Changelog
 
+5.0.3.4
++ limit operation for html documents (ignore xml, rss, etc...)
+
 5.0.3.3
 * improved background-counter efficiency.
 
