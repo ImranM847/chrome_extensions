@@ -29,6 +29,9 @@ Effectivly giving you a <strong>SPF-Free</strong> website, without breaking anyt
 <pre>
 Developer's HUB / Changelog
 
+1.2.2.4
++ limit operation for text/html documents (ignore xml, rss, etc...)
+
 1.2.2.3
 * improved script injection on early page-loading stages (no body).
 
