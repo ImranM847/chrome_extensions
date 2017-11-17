@@ -29,6 +29,10 @@
 <pre>
 Developer's HUB / Changelog
 
+1.0.2.6
+* explicit apply changes only for text/html pages.
++ adding support for about:blank pages.
+
 1.0.2.5
 + adding action-counter in icon-badge.
 
