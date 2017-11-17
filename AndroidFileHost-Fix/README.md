@@ -7,6 +7,10 @@
 <pre>
 Developer's HUB / Changelog
 
+1.0.0.7
+* support for about:blank frames.
++ explicit apply actions only for text/html pages.
+
 1.0.0.6
 + initial.
 </pre>
